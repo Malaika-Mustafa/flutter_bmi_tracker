@@ -83,7 +83,7 @@ lib/
 1. Clone the repo:
 
    ```bash
-   git clone https://github.com/your-username/bmi-tracker.git
+   git clone "https://github.com/Malaika-Mustafa/flutter_bmi_tracker.git"
    cd bmi-tracker
    ```
 
@@ -105,5 +105,3 @@ This project is open source and available under the [MIT License](LICENSE).
 ---
 
 Made with ❤️ by Malaika Mustafa.
-
-Made with ❤️ by Malaika.
